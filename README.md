@@ -16,7 +16,7 @@ The push button counter program developed in MPLAB X IDE utilizes a PIC18 microc
 
 In summary, this push button counter serves as a foundational exercise in embedded systems, showcasing essential concepts such as input handling, display control, and debouncing. The combination of MPLAB X IDE for programming and Proteus for circuit simulation allows for effective visualization and testing of the design, making it an excellent project for beginners in microcontroller applications.
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/7bee30da-74e5-4fed-ac94-58fd9f4bcf52)
 
