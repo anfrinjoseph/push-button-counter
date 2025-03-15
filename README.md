@@ -21,3 +21,5 @@ In summary, this push button counter serves as a foundational exercise in embedd
 ![Image](https://github.com/user-attachments/assets/7bee30da-74e5-4fed-ac94-58fd9f4bcf52)
 
 ![Image](https://github.com/user-attachments/assets/a3093340-7871-4360-b24f-c03842d565d3)
+
+![Image](https://github.com/user-attachments/assets/a21f916a-4e54-47a8-81aa-056432c1ef75)
